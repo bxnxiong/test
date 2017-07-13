@@ -3,4 +3,4 @@ with open('test.txt') as f:
         w = lines.split('\t')
         print w[0]
         # print w[1]
-        # print
+        print
